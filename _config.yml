@@ -2,12 +2,13 @@ name: grahame
 favicon: null
 layout_spectrum: 0.5485882142093033
 typography_spectrum: 0.7861483215820044
+title: Grahame Murray
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-8100748-1
   facebook: null
   twitter: null
 opengraph:
