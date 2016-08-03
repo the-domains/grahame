@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Grahame Murray]]></title>
+        <description><![CDATA[Grahame Murray]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 18:42:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ego]]></title>
+            <description><![CDATA[<p>Hi there, my name is Frank Grahame Murray and I’m 39 years old. I am from Newark, DE, home of Newark High School and the University of Delaware. I am a graduate of Goucher College near Baltimore, MD with a bachelors (of arts no less) in Computer Science. I work as a Software Engineer for Nuance Communications in Durham, NC. I bought a house in Historic Mordecai in Raleigh, near downtown. I used to have a house in San Leandro, CA . A large portion of my life is spent dealing with computers and electronic gadgets. My other big passion in life is music, both consumption and creation. I also enjoy other forms of entertainment, especially movies. If you were to ask me what my religion was, I’d probably tell you Unitarian Universalist, although I attend very rarely. According to the Keirsey Sorter, I used to be an INFJ, although now I am consistently rating as an ISFJ. This is assuming that I am indeed an Introvert of course. As for politics, I am quite liberal, frequently vacillating between the guilt-driven democratic tax-me-to-help-the-poor and libertarian leave-me-alone stances. </p>]]></description>
+            <link>undefinedego/index.html</link>
+            <guid isPermaLink="false">d8d3f2d6-1bef-40db-8bdc-0a4983c6d998</guid>
+            <pubDate>Wed, 03 Aug 2016 18:42:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
